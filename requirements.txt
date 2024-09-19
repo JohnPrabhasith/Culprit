@@ -3,3 +3,4 @@ langchain-groq
 load_dotenv
 crewai_tools
 streamlit
+sqlite3==3.35.0
