@@ -3,4 +3,3 @@ langchain-groq
 load_dotenv
 crewai_tools
 streamlit
-sqlite3
